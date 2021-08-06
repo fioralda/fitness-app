@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fitness-app/static/css/main.a7e092f4.chunk.css",
+    "main.js": "/fitness-app/static/js/main.d73ca75e.chunk.js",
+    "main.js.map": "/fitness-app/static/js/main.d73ca75e.chunk.js.map",
+    "runtime-main.js": "/fitness-app/static/js/runtime-main.bd968d73.js",
+    "runtime-main.js.map": "/fitness-app/static/js/runtime-main.bd968d73.js.map",
+    "static/js/2.6d97d222.chunk.js": "/fitness-app/static/js/2.6d97d222.chunk.js",
+    "static/js/2.6d97d222.chunk.js.map": "/fitness-app/static/js/2.6d97d222.chunk.js.map",
+    "static/js/3.040a75c2.chunk.js": "/fitness-app/static/js/3.040a75c2.chunk.js",
+    "static/js/3.040a75c2.chunk.js.map": "/fitness-app/static/js/3.040a75c2.chunk.js.map",
+    "index.html": "/fitness-app/index.html",
+    "static/css/main.a7e092f4.chunk.css.map": "/fitness-app/static/css/main.a7e092f4.chunk.css.map",
+    "static/js/2.6d97d222.chunk.js.LICENSE.txt": "/fitness-app/static/js/2.6d97d222.chunk.js.LICENSE.txt",
+    "static/media/about.066e75a8.jpg": "/fitness-app/static/media/about.066e75a8.jpg",
+    "static/media/index.css": "/fitness-app/static/media/bg-2.8781548c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd968d73.js",
+    "static/js/2.6d97d222.chunk.js",
+    "static/css/main.a7e092f4.chunk.css",
+    "static/js/main.d73ca75e.chunk.js"
+  ]
+}
