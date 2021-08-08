@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/fitness-app/static/css/main.a7e092f4.chunk.css",
-    "main.js": "/fitness-app/static/js/main.d73ca75e.chunk.js",
-    "main.js.map": "/fitness-app/static/js/main.d73ca75e.chunk.js.map",
-    "runtime-main.js": "/fitness-app/static/js/runtime-main.bd968d73.js",
-    "runtime-main.js.map": "/fitness-app/static/js/runtime-main.bd968d73.js.map",
-    "static/js/2.6d97d222.chunk.js": "/fitness-app/static/js/2.6d97d222.chunk.js",
-    "static/js/2.6d97d222.chunk.js.map": "/fitness-app/static/js/2.6d97d222.chunk.js.map",
-    "static/js/3.040a75c2.chunk.js": "/fitness-app/static/js/3.040a75c2.chunk.js",
-    "static/js/3.040a75c2.chunk.js.map": "/fitness-app/static/js/3.040a75c2.chunk.js.map",
-    "index.html": "/fitness-app/index.html",
-    "static/css/main.a7e092f4.chunk.css.map": "/fitness-app/static/css/main.a7e092f4.chunk.css.map",
-    "static/js/2.6d97d222.chunk.js.LICENSE.txt": "/fitness-app/static/js/2.6d97d222.chunk.js.LICENSE.txt",
-    "static/media/about.066e75a8.jpg": "/fitness-app/static/media/about.066e75a8.jpg",
-    "static/media/index.css": "/fitness-app/static/media/bg-2.8781548c.svg"
+    "main.css": "/practicing-tailwind/static/css/main.d57bcf19.chunk.css",
+    "main.js": "/practicing-tailwind/static/js/main.d73ca75e.chunk.js",
+    "main.js.map": "/practicing-tailwind/static/js/main.d73ca75e.chunk.js.map",
+    "runtime-main.js": "/practicing-tailwind/static/js/runtime-main.19161d52.js",
+    "runtime-main.js.map": "/practicing-tailwind/static/js/runtime-main.19161d52.js.map",
+    "static/js/2.6d97d222.chunk.js": "/practicing-tailwind/static/js/2.6d97d222.chunk.js",
+    "static/js/2.6d97d222.chunk.js.map": "/practicing-tailwind/static/js/2.6d97d222.chunk.js.map",
+    "static/js/3.040a75c2.chunk.js": "/practicing-tailwind/static/js/3.040a75c2.chunk.js",
+    "static/js/3.040a75c2.chunk.js.map": "/practicing-tailwind/static/js/3.040a75c2.chunk.js.map",
+    "index.html": "/practicing-tailwind/index.html",
+    "static/css/main.d57bcf19.chunk.css.map": "/practicing-tailwind/static/css/main.d57bcf19.chunk.css.map",
+    "static/js/2.6d97d222.chunk.js.LICENSE.txt": "/practicing-tailwind/static/js/2.6d97d222.chunk.js.LICENSE.txt",
+    "static/media/about.066e75a8.jpg": "/practicing-tailwind/static/media/about.066e75a8.jpg",
+    "static/media/index.css": "/practicing-tailwind/static/media/bg-2.8781548c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bd968d73.js",
+    "static/js/runtime-main.19161d52.js",
     "static/js/2.6d97d222.chunk.js",
-    "static/css/main.a7e092f4.chunk.css",
+    "static/css/main.d57bcf19.chunk.css",
     "static/js/main.d73ca75e.chunk.js"
   ]
 }
