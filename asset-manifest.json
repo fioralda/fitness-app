@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/practicing-tailwind/static/css/main.d57bcf19.chunk.css",
-    "main.js": "/practicing-tailwind/static/js/main.d73ca75e.chunk.js",
-    "main.js.map": "/practicing-tailwind/static/js/main.d73ca75e.chunk.js.map",
+    "main.js": "/practicing-tailwind/static/js/main.da4a069c.chunk.js",
+    "main.js.map": "/practicing-tailwind/static/js/main.da4a069c.chunk.js.map",
     "runtime-main.js": "/practicing-tailwind/static/js/runtime-main.19161d52.js",
     "runtime-main.js.map": "/practicing-tailwind/static/js/runtime-main.19161d52.js.map",
     "static/js/2.6d97d222.chunk.js": "/practicing-tailwind/static/js/2.6d97d222.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.19161d52.js",
     "static/js/2.6d97d222.chunk.js",
     "static/css/main.d57bcf19.chunk.css",
-    "static/js/main.d73ca75e.chunk.js"
+    "static/js/main.da4a069c.chunk.js"
   ]
 }
